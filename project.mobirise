@@ -42,7 +42,7 @@
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/1200px-vestland-vpen.svg-128x156.png",
+    "favicon": "@PROJECT_PATH@/assets/images/index-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
