@@ -2270,7 +2270,7 @@ section.lazy-placeholder:after {
 }
 .cid-s7PiVq21pD {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s7PiVq21pD .title {
@@ -2288,6 +2288,15 @@ section.lazy-placeholder:after {
 }
 .cid-s7PiVq21pD textarea.form-control {
   min-height: 188px;
+}
+.cid-s8ST82nS7k {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s8ST82nS7k .mbr-text,
+.cid-s8ST82nS7k blockquote {
+  color: #767676;
 }
 .cid-s7PffYG4hl .navbar {
   background: #ffffff;
