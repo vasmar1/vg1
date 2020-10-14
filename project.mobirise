@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Helse og oppvekst",
-    "currentPage": "page10.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
       }
     ],
     "uniqCompNum": 71,
-    "versionPublish": "4.12.4",
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/1200px-vestland-vpen.svg-128x156-3.png",
@@ -61,7 +61,8 @@
     },
     "google-analytics": "UA-168003487-1",
     "gdpr": false,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "publishChangesOnly": true
   },
   "pages": {
     "kommunikasjonprøve1.html": {
