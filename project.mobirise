@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Helse og oppvekst",
-    "currentPage": "home.html",
+    "currentPage": "elevportalen.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3546,7 +3546,7 @@
     "elevportalen.html": {
       "settings": {
         "meta_descr": "Domene for elevar i klassen.",
-        "title": "Elevportalen",
+        "title": "Klasseportalen",
         "order": 1
       },
       "components": [
