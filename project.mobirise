@@ -50,7 +50,7 @@
     "google-analytics": "",
     "gdpr": false,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "cookiesAlert": false
   },
   "pages": {
