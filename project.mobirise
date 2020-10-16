@@ -46,7 +46,14 @@
     "uniqCompNum": 67,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "favicon": "@PROJECT_PATH@/assets/images/1200px-vestland-vpen.svg-128x156.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
