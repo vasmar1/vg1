@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Helse og oppvekst oppdatert versjon 2",
+    "name": "Versjon 2 - oppdatert 31.10.20",
     "currentPage": "home.html",
     "theme": {
       "name": "mobirise5",
@@ -46,7 +46,7 @@
     "uniqCompNum": 76,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "favicon": "@PROJECT_PATH@/assets/images/1200px-vestland-vpen.svg-128x156.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
